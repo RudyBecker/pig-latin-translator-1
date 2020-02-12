@@ -1,0 +1,82 @@
+@font-face {
+    font-family: 'Hammersmith One';
+    src: url('https://fonts.googleapis.com/css?family=Hammersmith+One&display=swap');
+
+}
+
+body{
+  margin: 2em;
+  font-family: 'Josefin Sans', sans-serif;
+  align-items: center;
+  text-align: center;
+}
+h1{
+  font-family: 'Hammersmith One', sans-serif;
+  text-align: center;
+  font-size: 4em;
+}
+
+h4{
+    text-shadow: 2px 2px 2px #000;
+}
+
+.output{
+    text-shadow: 2px 2px 2px #000;
+}
+button{
+margin:20px;
+    box-shadow: 0px 15px 14px -7px #000000;
+	background:linear-gradient(to bottom, #ffffff 5%, #d1d1d1 100%);
+	background-color:#ffffff;
+	border-radius:18px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffa6ca;
+	font-family:Arial;
+	font-size:20px;
+	font-weight:bold;
+	padding:13px 32px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #000000;
+}
+.button:hover {
+    background:linear-gradient(to bottom, #d1d1d1 5%, #ffffff 100%);
+	background-color:#d1d1d1;
+}
+.button:active {
+    position:relative;
+	top:1px;
+}
+
+footer{
+  padding: 2em;
+}
+
+#butcherPig{
+  width: 12em;
+  }
+#pigImage{
+  text-align: center;
+}
+#inputPhrase{
+  border-style: solid;
+  border-radius:18px;
+  font-size: 1em;
+  height: 5em;
+  width: 20em;
+  text-align: center;
+}
+
+.box{
+  background-color: #ffa6c9;
+  color: #fff;
+  border-radius: .2em;
+  padding: 1em;
+  font-size: 150%;
+  border-color: black;
+  border-style: solid;
+}
+.header{
+  background-color: #FFF;
+  padding: 1em;
+}
