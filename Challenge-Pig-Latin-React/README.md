@@ -9,7 +9,7 @@ This project was created utilizing the React framework, JSX, and Regular Express
 * As a user, the page is styled, and pleasing to use.
 
 
-# Pig Latin
+## Pig Latin Information
 
 Don't know about Pig Latin? Click here to learn more. [How to speak Pig Latin](http://www.wikihow.com/Speak-Pig-Latin)
 
